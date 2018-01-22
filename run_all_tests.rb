@@ -17,3 +17,4 @@ require 'class_instantiation'
 require 'find_max_number'
 
 require 'procs_vs_lambdas'
+require 'regex'
